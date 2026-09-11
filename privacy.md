@@ -1,22 +1,42 @@
 # Roundi — Privacy Policy
 
-Version 1.0 · Last updated: September 11, 2026
+Version 1.1 · Last updated: September 11, 2026
 
 Roundi is a visual focus timer made by Yakppal, Inc. This policy explains
-what data the app handles. The short version: **your data stays on your
-device. We collect nothing.**
+what data the app handles. The short version: **your rounds and everything
+you type stay on your device. The app sends only anonymous usage
+statistics.**
 
-## What the app stores
+## What the app stores on your device
 
 Roundi keeps your timer rounds (start time, duration, outcome, optional tag)
 and your settings (colors, sounds, tags) in a local database on your device.
-This data is never sent to us or to anyone else.
+This data is never sent to us or to anyone else. There are no accounts and
+no sign-up.
 
-## What we collect
+## Anonymous usage analytics
 
-Nothing. Roundi has no accounts, no sign-up, no analytics, no ads, and no
-tracking. The app does not transmit your data to Yakppal or to any third
-party.
+Roundi uses Google Analytics for Firebase to understand how the app is used,
+so we can improve it. What this sends:
+
+- App events, such as: a round was started, completed, cancelled, or
+  interrupted; its duration; the timer style and color used; whether a tag
+  was used; a setting was changed.
+- Standard device information collected by Google Analytics: device model,
+  operating system version, app version, language, coarse location
+  (country-level, derived from IP address), and a random app-instance
+  identifier.
+
+What this never includes: your name, email, or any account (there are none);
+the names of your tags or anything else you type; your timer history;
+precise location; or advertising identifiers. The random app-instance
+identifier is not linked to your identity, and we do not use analytics data
+for advertising or tracking across apps.
+
+Analytics data is processed by Google LLC on our behalf (see
+[Google's privacy policy](https://policies.google.com/privacy)).
+User-level analytics data is retained for at most 14 months; aggregated
+statistics may be kept longer.
 
 ## Device backups
 
@@ -34,20 +54,22 @@ settings; the timer still works.
 
 ## Children
 
-Roundi does not collect personal information from anyone, including
-children.
+Roundi has no accounts and does not knowingly collect personal information
+from children; analytics is anonymous for all users.
 
 ## Deleting your data
 
 Uninstalling the app deletes all of its data from your device (a copy may
 persist in your device backup until that backup is replaced, per your
-device's backup settings).
+device's backup settings). Uninstalling also stops all analytics; to request
+deletion of previously collected anonymous analytics tied to your
+app-instance identifier, contact us at the address below.
 
 ## Changes
 
-If a future version of Roundi ever collects data — for example, if we add
-optional ads or subscriptions — we will update this policy first and note
-the change here, with a new version number and date.
+When Roundi's data practices change, we update this policy first and note
+the change here with a new version number and date. (Version 1.0 predates
+analytics; version 1.1 adds the anonymous usage analytics described above.)
 
 ## Contact
 
